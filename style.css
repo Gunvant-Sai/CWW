@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+}
+
+#NICE {
+    margin-top: 0px;
+    width: 100%;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#HEHE {
+    font-size: 20px;
+}
+
+#Fail {
+    font-size: 21px;
+}
+
+canvas {
+    border: 2px Solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px black;
+}
